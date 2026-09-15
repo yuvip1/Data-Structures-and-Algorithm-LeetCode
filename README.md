@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
