@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
