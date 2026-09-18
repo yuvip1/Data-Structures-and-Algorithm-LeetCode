@@ -6,14 +6,14 @@ class Solution {
         int maxLength = 0;
         int left = 0;
 
-        for(int i = 0; i < s.length(); i++){
+        for(int right = 0; right < s.length(); right++){
 
-            while(charSet.contains(s.charAt(i))){
+            while(charSet.contains(s.charAt(right))){
                 charSet.remove(s.charAt(left));
                 left++;
             }
-            charSet.add(s.charAt(i));
-            maxLength = Math.max(maxLength, i-left+1);
+            charSet.add(s.charAt(right));
+            maxLength = Math.max(maxLength, right-left+1);
         }
         return maxLength;
         
