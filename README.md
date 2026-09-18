@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
@@ -33,11 +35,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
