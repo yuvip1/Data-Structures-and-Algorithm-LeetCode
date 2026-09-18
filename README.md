@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -39,8 +40,14 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
