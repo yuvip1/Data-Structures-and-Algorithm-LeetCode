@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -67,4 +68,28 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
