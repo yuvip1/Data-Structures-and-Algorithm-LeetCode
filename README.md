@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/1672-richest-customer-wealth) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
