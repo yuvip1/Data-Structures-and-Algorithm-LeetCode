@@ -26,6 +26,7 @@ class Solution {
                 p1 = p1.next;
             }
             p = p.next;
+            p.next = null;
 
         }
         if (p1 != null){
