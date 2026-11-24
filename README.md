@@ -94,4 +94,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
