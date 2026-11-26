@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
