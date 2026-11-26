@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0383-ransom-note) |
@@ -68,6 +69,7 @@
 | [0086-partition-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
@@ -106,6 +108,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/yuvip1/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
