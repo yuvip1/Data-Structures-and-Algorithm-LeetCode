@@ -11,9 +11,6 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        ListNode dummy = new ListNode(-1);
-        dummy = head;
-
         ListNode slow = head;
         ListNode fast = head;
 
